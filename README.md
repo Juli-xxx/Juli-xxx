@@ -19,6 +19,6 @@
 ## 🧑‍💻 Languages
 ![Pascal](https://img.shields.io/badge/Pascal-3776AB?style=for-the-badge&logo=pascal&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Rinfo](https://img.shields.io/badge/Rinfo-ED8B00?style=for-the-badge&logo=rinfo&logoColor=white)
+![Rinfo](https://img.shields.io/badge/Rinfo-ED8E00?style=for-the-badge&logo=rinfo&logoColor=white)
 
 
