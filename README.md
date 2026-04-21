@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://i.imgur.com/tu-imagen-japonesa.jpg" width="500"/>
+</p>
+
 - 🔭 I’m currently working on surviving university (UNLP)
 - 🌱 I’m learning C, Java, Assembly 
 - 💬 Ask me about anything related to the UNLP IC (computer engeneer) clasess
