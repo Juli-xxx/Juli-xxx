@@ -21,7 +21,7 @@
 
 ![Pascal](https://img.shields.io/badge/Pascal-B0B7C3?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-FF3B1F?style=for-the-badge\&logo=java\&logoColor=white)
-![R-Info](https://img.shields.io/badge/R--Info-6FA8DC?style=for-the-badge\&logo=r\&logoColor=black)
+![R-Info](https://img.shields.io/badge/R--Info-6FA8DC?style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/Assembly-8B5E34?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-2F80ED?style=for-the-badge\&logo=c\&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-FF6A2B?style=for-the-badge\&logo=html5\&logoColor=white)
