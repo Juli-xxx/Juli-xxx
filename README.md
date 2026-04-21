@@ -1,4 +1,5 @@
-<img width="498" height="220" alt="FishGIF" src="https://github.com/user-attachments/assets/b4d16405-79fa-4dae-a0d4-49bd67995d2c" />
+<img width="500" height="250" alt="FishyAnimeGIF" src="https://github.com/user-attachments/assets/19a1f972-d774-4aae-98b0-39707ee10109" />
+
 
 ## Hi there 👋
 
