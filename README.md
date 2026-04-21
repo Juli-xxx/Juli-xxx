@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://i.imgur.com/tu-imagen-japonesa.jpg" width="500"/>
-</p>
-
 - 🔭 I’m currently working on surviving university (UNLP)
 - 🌱 I’m learning C, Java, Assembly 
 - 💬 Ask me about anything related to the UNLP IC (computer engeneer) clasess
@@ -12,7 +8,8 @@
 - ⚡ Fun fact: ... (i´ll leave this here until I have one)
 - 👩‍🏫 current job: assistant teacher at UNLP in Programación II 
 
- 
+<img width="498" height="498" alt="CatGIF" src="https://github.com/user-attachments/assets/055e8268-d4df-412e-9d94-c9bbffc5317f" />
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juli-xxx&show_icons=true&theme=radical&cache_seconds=1800"/>
