@@ -31,20 +31,6 @@
 
 </p>
 
-## 🧑‍💻 Languages
-
-<p align="center">
-
-![Pascal](https://img.shields.io/badge/Pascal-5A6B8C?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-E06C75?style=for-the-badge\&logo=java\&logoColor=white)
-![R-Info](https://img.shields.io/badge/R--Info-61AFEF?style=for-the-badge\&logo=r\&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-7F848E?style=for-the-badge)
-![C](https://img.shields.io/badge/C-56B6C2?style=for-the-badge\&logo=c\&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-D19A66?style=for-the-badge\&logo=html5\&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-61AFEF?style=for-the-badge\&logo=css3\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-E5C07B?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-</p>
 
 ## 🧑‍💻 Languages
 
