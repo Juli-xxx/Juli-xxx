@@ -1,5 +1,5 @@
 <img width="450" height="200" alt="FishyAnimeGIF" src="https://github.com/user-attachments/assets/1e89b03b-6c71-4418-82f8-8d5511983c88" />
-<img width="500" height="200" alt="TheThreeTreasuresTheBirthOfJapanGIF" src="https://github.com/user-attachments/assets/c7895d26-999e-41de-b8a5-5faf1b49a857" />
+<img width="500" height="250" alt="DragonGIF" src="https://github.com/user-attachments/assets/2ddf1b80-a72b-4460-815c-3c1ab6fc5b27" />
 
 
 ## Hi there 👋
