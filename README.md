@@ -6,5 +6,22 @@
 - 📫 How to reach me: idk
 - 😄 Pronouns: 🫤
 - ⚡ Fun fact: ... (i´ll leave this here until I have one)
-- 👩‍🏫 current job: assistant in Programación II 
+- 👩‍🏫 current job: assistant teacher at UNLP in Programación II 
 
+ 
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USER&layout=compact&theme=tokyonight)
+
+---
+
+## 🧑‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📦 Frameworks & Libraries
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
