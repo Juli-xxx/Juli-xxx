@@ -17,8 +17,17 @@
 ---
 
 ## 🧑‍💻 Languages
-![Pascal](https://img.shields.io/badge/Pascal-3776AB?style=for-the-badge&logo=pascal&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Rinfo](https://img.shields.io/badge/Rinfo-ED8E00?style=for-the-badge&logo=rinfo&logoColor=white)
 
+<p align="center">
+
+![Pascal](https://img.shields.io/badge/Pascal-4F5D95?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-FF6F00?style=for-the-badge\&logo=java\&logoColor=white)
+![R-Info](https://img.shields.io/badge/R--Info-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-8A6E3F?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+</p>
 
