@@ -35,15 +35,17 @@
 
 <p align="center">
 
-![Pascal](https://img.shields.io/badge/Pascal-2C2F33?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-3A3F44?style=for-the-badge\&logo=java\&logoColor=white)
-![R-Info](https://img.shields.io/badge/R--Info-4C6EF5?style=for-the-badge\&logo=r\&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-2E3440?style=for-the-badge)
-![C](https://img.shields.io/badge/C-3B4252?style=for-the-badge\&logo=c\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-434C5E?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-4C566A?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-5E81AC?style=for-the-badge\&logo=javascript\&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-3B4252?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-BF616A?style=for-the-badge\&logo=java\&logoColor=white)
+![R-Info](https://img.shields.io/badge/R--Info-5E81AC?style=for-the-badge\&logo=r\&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-4C566A?style=for-the-badge)
+![C](https://img.shields.io/badge/C-88C0D0?style=for-the-badge\&logo=c\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-D08770?style=for-the-badge\&logo=html5\&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-81A1C1?style=for-the-badge\&logo=css3\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-EBCB8B?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 </p>
+
+
 
 
