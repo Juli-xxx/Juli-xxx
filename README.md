@@ -46,6 +46,20 @@
 
 </p>
 
+## 🧑‍💻 Languages
+
+<p align="center">
+
+![Pascal](https://img.shields.io/badge/Pascal-6C7A89?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-D94F4F?style=for-the-badge\&logo=java\&logoColor=white)
+![R-Info](https://img.shields.io/badge/R--Info-4FA3D1?style=for-the-badge\&logo=r\&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-8F6B32?style=for-the-badge)
+![C](https://img.shields.io/badge/C-3FA7D6?style=for-the-badge\&logo=c\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E67E22?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2E86C1?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F4D03F?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+</p>
 
 
 
