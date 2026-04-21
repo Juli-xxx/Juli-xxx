@@ -10,9 +10,8 @@
 
  
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=juli-xxx&show_icons=true&theme=tokyonight
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USER&layout=compact&theme=tokyonight)
 
 ---
 
