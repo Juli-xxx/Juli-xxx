@@ -1,4 +1,6 @@
-<img width="450" height="200" alt="FishyAnimeGIF" src="https://github.com/user-attachments/assets/1e89b03b-6c71-4418-82f8-8d5511983c88" />
+<img width="498" height="220" alt="FishGIF" src="https://github.com/user-attachments/assets/b4d16405-79fa-4dae-a0d4-49bd67995d2c" /><img width="450" height="200" alt="FishyAnimeGIF" src="https://github.com/user-attachments/assets/1e89b03b-6c71-4418-82f8-8d5511983c88" />
+<img width="498" height="220" alt="FishGIF (2)" src="https://github.com/user-attachments/assets/062e4fc6-b945-4d1c-9f17-092a4232f2ed" />
+
 
 ## Hi there 👋
 
