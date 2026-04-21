@@ -14,15 +14,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=juli-xxx&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
-
 ---
 
 ## 🧑‍💻 Languages
+![Pascal](https://img.shields.io/badge/Pascal-3776AB?style=for-the-badge&logo=pascal&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rinfo](https://img.shields.io/badge/Rinfo-ED8B00?style=for-the-badge&logo=rinfo&logoColor=white)
 
----
 
-## 📦 Frameworks & Libraries
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
