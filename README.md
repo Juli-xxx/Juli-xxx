@@ -19,10 +19,9 @@
   
 
 </p>
-
+</p>
 
 ## 🧑‍💻 Languages
-
 <p align="center">
 
 ![Pascal](https://img.shields.io/badge/Pascal-B0B7C3?style=for-the-badge)
@@ -36,8 +35,7 @@
 
 </p>
 
-🛠️ Tools I Use
-
+## 🛠️ Tools I Use
 <p align="center">
 
 ![VSCode](https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
