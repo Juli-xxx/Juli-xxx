@@ -1,7 +1,4 @@
 <img width="500" height="250" alt="FishyAnimeGIF" src="https://github.com/user-attachments/assets/19a1f972-d774-4aae-98b0-39707ee10109" />
-## 🎧 Vibes
-
-[![LoFi](https://img.shields.io/badge/LoFi%20Beats-9D2A2A?style=for-the-badge)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
 
 ## Hi there 👋
 
@@ -46,5 +43,7 @@
 
 </p>
 
+## 🎧 Vibes
 
+[![Classic](https://img.shields.io/badge/LoFi%20Beats-9D2A2A?style=for-the-badge)](https://open.spotify.com/playlist/27tzBeMVgQHKS8E4jMGg9k)
 
