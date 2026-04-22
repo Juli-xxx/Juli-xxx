@@ -45,5 +45,5 @@
 
 ## 🎧 Vibes
 
-[![Classic](https://img.shields.io/badge/LoFi%20Beats-9D2A2A?style=for-the-badge)](https://open.spotify.com/playlist/27tzBeMVgQHKS8E4jMGg9k)
+[![Classic](https://img.shields.io/badge/Classic%20Beats-9D2A2A?style=for-the-badge)](https://open.spotify.com/playlist/27tzBeMVgQHKS8E4jMGg9k)
 
