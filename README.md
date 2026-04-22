@@ -18,10 +18,6 @@
   
 </p>
 
-## 🐍 Contributions
-
-![Snake animation](https://github.com/juli-xxx/juli-xxx/blob/output/github-contribution-grid-snake.svg)
-
 ## 🧑‍💻 Languages
 <p align="center">
 
@@ -48,3 +44,6 @@
 
 [![Classic](https://img.shields.io/badge/Classic%20-9D2A2A?style=for-the-badge)](https://open.spotify.com/playlist/27tzBeMVgQHKS8E4jMGg9k)
 
+## 🐍 Contributions
+
+![Snake](https://raw.githubusercontent.com/juli-xxx/juli-xxx/output/github-snake.svg)
