@@ -10,13 +10,14 @@
 - ⚡ Fun fact: ... (i´ll leave this here until I have one)
 - 👩‍🏫 current job: assistant teacher at UNLP in Programación II 
 
-## 📊 GitHub Stats
-<p align="center">
 
-  ![Streak](https://streak-stats.demolab.com?user=juli-xxx&theme=gruvbox)
-  <img src="https://github-readme-stats.vercel.app/api?username=juli-xxx&show_icons=true&theme=gruvbox&cache_seconds=1800"/>
-  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juli-xxx&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juli-xxx&layout=compact&theme=gruvbox" height="130"/>
 </p>
+
 
 ## 🧑‍💻 Languages
 <p align="center">
