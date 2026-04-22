@@ -14,9 +14,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juli-xxx&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juli-xxx&layout=compact&theme=gruvbox" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juli-xxx&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juli-xxx&layout=compact&theme=gruvbox" width="48%"/>
 </p>
+
 
 
 ## 🧑‍💻 Languages
