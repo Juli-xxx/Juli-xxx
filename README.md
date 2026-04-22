@@ -46,10 +46,6 @@
 
 ## 🐍 Contributions
 
-<p align="center">
-  
 ![Snake Dark](https://raw.githubusercontent.com/juli-xxx/juli-xxx/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/juli-xxx/juli-xxx/output/github-snake-dark.svg"/>
 
-</p>
-
-![Snake Dark](https://raw.githubusercontent.com/juli-xxx/juli-xxx/output/github-snake-dark.svg)
