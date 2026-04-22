@@ -18,6 +18,10 @@
   
 </p>
 
+## 🐍 Contributions
+
+![Snake animation](https://github.com/juli-xxx/juli-xxx/blob/output/github-contribution-grid-snake.svg)
+
 ## 🧑‍💻 Languages
 <p align="center">
 
