@@ -1,5 +1,5 @@
 <img width="500" height="250" alt="FishyAnimeGIF" src="https://github.com/user-attachments/assets/19a1f972-d774-4aae-98b0-39707ee10109" />
-
+[![Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](LINK_DE_TU_PLAYLIST)
 
 ## Hi there 👋
 
