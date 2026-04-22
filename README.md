@@ -47,4 +47,4 @@
 ## 🐍 Contributions
 
 ![Snake Dark](https://raw.githubusercontent.com/juli-xxx/juli-xxx/output/github-snake-dark.svg)
-![Snake](https://raw.githubusercontent.com/juli-xxx/juli-xxx/output/ocean.gif)
+
