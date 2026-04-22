@@ -24,10 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=juli-xxx&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juli-xxx&layout=compact&theme=gruvbox"/>
-</p>
-
 
 ## 🧑‍💻 Languages
 <p align="center">
