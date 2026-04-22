@@ -15,6 +15,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juli-xxx&show_icons=true&theme=gruvbox" width="45%"/>
+
+  <img src="https://streak-stats.demolab.com?user=juli-xxx&theme=gruvbox" width="45%"/>
   
   ![Streak](https://streak-stats.demolab.com?user=juli-xxx&theme=gruvbox)
 </p>
