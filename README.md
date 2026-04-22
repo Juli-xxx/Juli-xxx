@@ -10,6 +10,7 @@
 - ⚡ Fun fact: ... (i´ll leave this here until I have one)
 - 👩‍🏫 current job: assistant teacher at UNLP in Programación II 
 
+![Streak](https://streak-stats.demolab.com?user=juli-xxx&theme=gruvbox)
 
 ## 📊 GitHub Stats
 <p align="center">
