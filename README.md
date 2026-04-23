@@ -6,8 +6,9 @@
 - 🌱 I’m learning C, Java, Assembly 
 - 💬 Ask me about anything related to the UNLP IC (computer engeneer) clasess
 - 📫 How to reach me: idk
-- 😄 Pronouns: 🫤
 - ⚡ Fun fact: ... (i´ll leave this here until I have one)
+- ✨ What I like: dragons...
+- 🤔 What it has to do with anything: nothing.
 - 👩‍🏫 current job: assistant teacher at UNLP in Programación II 
 
 
