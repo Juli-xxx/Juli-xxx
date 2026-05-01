@@ -57,6 +57,6 @@
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juli-xxx/juli-xxx/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Juli-xxx/Juli-xxx/output/github-snake-dark.svg"/>
 </p>
 
