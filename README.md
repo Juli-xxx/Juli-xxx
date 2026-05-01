@@ -14,14 +14,14 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juli-xxx&theme=gruvbox"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juli-xxx&theme=gruvbox"/>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/>  
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Juli-xxx&theme=gruvbox" width="45.45%"/> 
 </p>
+
+// <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juli-xxx&theme=gruvbox"/>
+
 
 ## 🧑‍💻 Languages
 <p align="center">
