@@ -20,8 +20,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/>  
 </p>
-  <img src="https://github-readme-stats-git-master-anuraghalwas-projects.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/>
-
 
 ## 🧑‍💻 Languages
 <p align="center">
