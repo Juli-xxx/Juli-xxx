@@ -32,7 +32,7 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox&layout=compact" width="43%"/>  
+  <img src="https://github-stats-alpha.vercel.app/api?username=Juli-xxx&theme=gruvbox&show_icons=true&layout=compact" width="43%"/>  
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Juli-xxx&theme=gruvbox" width="45.45%"/>
 </p>
