@@ -15,11 +15,12 @@
 ## 📊 GitHub Stats
 <p align="center">
 
-  <img src="https://github-readme-stats-git-master-anuraghalwas-projects.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/>  
+ 
 </p>
   &nbsp;&nbsp;&nbsp;&nbsp;  
+   <img src="https://github-readme-stats-git-master-anuraghalwas-projects.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/>  
 
 
 ## 🧑‍💻 Languages
