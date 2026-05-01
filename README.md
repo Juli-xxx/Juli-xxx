@@ -17,6 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/>  
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Juli-xxx&theme=gruvbox" width="45.45%"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=juli-xxx&show_icons=true&theme=gruvbox"/>
 </p>
 
 ## 🧑‍💻 Languages
