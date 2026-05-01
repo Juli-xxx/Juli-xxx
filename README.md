@@ -18,9 +18,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Juli-xxx&theme=gruvbox" width="45.45%"/> 
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/>  
-</p>
 
 ## 🧑‍💻 Languages
 <p align="center">
