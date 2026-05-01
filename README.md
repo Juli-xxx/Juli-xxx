@@ -13,18 +13,7 @@
 
 
 ## 📊 GitHub Stats
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/>  
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Juli-xxx&theme=gruvbox" width="45.45%"/>
-</p>
-
-![GitHub followers](https://img.shields.io/github/followers/Juli-xxx?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Juli-xxx?style=social)
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Juli-xxx&theme=gruvbox" width="100%"/>
 
 ## 🧑‍💻 Languages
 <p align="center">
