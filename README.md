@@ -14,7 +14,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juli-xxx&theme=gruvbox" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juli-xxx&theme=gruvbox" width="45%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juli-xxx&theme=gruvbox" width="45%"/>
 </p>
 
@@ -24,7 +24,7 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/> NO FUNCIONA --> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juli-xxx&show_icons=true&theme=gruvbox"/>
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juli-xxx&theme=gruvbox"/> ES FEO -->  
-  <img src="https://stats.dooboo.io/api?username=juli-xxx"/>
+  <img src="https://stats.dooboo.io/api?username=Juli-xxx"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Juli-xxx&theme=gruvbox" width="45.45%"/> 
 </p>
