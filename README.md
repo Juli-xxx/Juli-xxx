@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juli-xxx&theme=gruvbox"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juli-xxx&show_icons=true&theme=gruvbox"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juli-xxx&theme=gruvbox"/>
   
   &nbsp;&nbsp;&nbsp;&nbsp;
