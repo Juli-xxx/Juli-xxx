@@ -18,7 +18,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juli-xxx&theme=gruvbox" width="45%"/>
 </p>
 
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juli-xxx&theme=gruvbox"/>
 ## 📊 GitHub Stats
 
 <p align="center">
