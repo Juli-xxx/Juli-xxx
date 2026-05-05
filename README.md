@@ -22,8 +22,8 @@
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/>  -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juli-xxx&theme=gruvbox"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juli-xxx&theme=gruvbox"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juli-xxx&theme=gruvbox"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juli-xxx&theme=gruvbox"/>
   
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Juli-xxx&theme=gruvbox" width="45.45%"/> 
