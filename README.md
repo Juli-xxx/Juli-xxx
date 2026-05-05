@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on surviving university (UNLP)
 - 🌱 I’m learning C, Java, Assembly 
-- 💬 Ask me about anything related to the UNLP IC (computer engeneer) clasess
+- 💬 Ask me about anything related to the UNLP IC (computer engineer) classes
 - 📫 How to reach me: idk
 - ⚡ Fun fact: ... (i´ll leave this here until I have one)
 - ✨ What I like: dragons...
@@ -15,7 +15,7 @@
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/> NO FUNCIONA --> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juli-xxx&show_icons=true&theme=gruvbox"width="46%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juli-xxx&show_icons=true&theme=gruvbox" width="46%"/>
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juli-xxx&theme=gruvbox"/> ES FEO -->  
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Juli-xxx&theme=gruvbox" width="45.5%"/> 
