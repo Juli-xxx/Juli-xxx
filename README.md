@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juli-xxx&theme=gruvbox" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juli-xxx&theme=gruvbox" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juli-xxx&theme=gruvbox" width="45%"/>
 </p>
 
 ## 📊 GitHub Stats
