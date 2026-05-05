@@ -24,6 +24,7 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Juli-xxx&show_icons=true&theme=gruvbox" width="43%"/> NO FUNCIONA --> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juli-xxx&show_icons=true&theme=gruvbox"/>
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juli-xxx&theme=gruvbox"/> ES FEO -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juli-xxx&layout=compact&theme=gruvbox"/>
   
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Juli-xxx&theme=gruvbox" width="45.45%"/> 
