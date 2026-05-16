@@ -53,3 +53,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Juli-xxx/Juli-xxx/output/github-snake-dark.svg"/>
 </p>
+
+```bash
+$ whoami
+Computer Engineering student
+
+$ current_focus
+C / Assembly / Systems
+
+$ mental_state
+segmentation fault
