@@ -55,13 +55,9 @@
 </p>
 
 
-👉 esto queda MUY GitHub/dev.
+```txt
+[ SYSTEM STATUS ]
 
----
-
-# 🧠 3. Quote minimalista
-
-Con tu vibe:
-
-```md id="quote"
-> “Silent progress is still progress.”
+Caffeine: ████████░░
+Sleep:    ██░░░░░░░░
+Motivation: ██████░░░
