@@ -54,12 +54,14 @@
   <img src="https://raw.githubusercontent.com/Juli-xxx/Juli-xxx/output/github-snake-dark.svg"/>
 </p>
 
-```bash
-$ whoami
-Computer Engineering student
 
-$ current_focus
-C / Assembly / Systems
+👉 esto queda MUY GitHub/dev.
 
-$ mental_state
-segmentation fault
+---
+
+# 🧠 3. Quote minimalista
+
+Con tu vibe:
+
+```md id="quote"
+> “Silent progress is still progress.”
