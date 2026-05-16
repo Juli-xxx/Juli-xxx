@@ -58,7 +58,7 @@
 ```txt
 [ SYSTEM STATUS ]
 
-Motivation: ■ ■ ■ ■ ■ ■ ■
+Motivation: ▰▰▰▰▰▰▰
 Sleep:      ■ ■ □ □ □ □ □
-Caffeine:   ■ ■ ■ ■ □ □ □
+Caffeine:   ▰▰▰▰▱▱▱
 
