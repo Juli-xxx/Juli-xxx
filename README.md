@@ -57,9 +57,7 @@
 
 ```txt
 [ SYSTEM STATUS ]
+
 Motivation: ██████████
 Sleep:      ███
 Caffeine:   ███████
-
-
-
