@@ -59,6 +59,6 @@
 [ SYSTEM STATUS ]
 
 Motivation: ▰▰▰▰▰▰▰
-Sleep:      ■ ■ □ □ □ □ □
+Sleep:      ▰▱▱▱▱▱▱
 Caffeine:   ▰▰▰▰▱▱▱
 
