@@ -62,3 +62,6 @@ Motivation: ▰▰▰▰▰▰▰
 Sleep:      ▰▱▱▱▱▱▱
 Caffeine:   ▰▰▰▰▱▱▱
 
+Caffeine ◈◈◈◈◈◇◇
+Sleep ◈◇◇◇◇◇◇
+Motivation ◈◈◈◈◇◇◇
